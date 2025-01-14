@@ -1,6 +1,6 @@
 package ex_01_Java_Basic;
 
-public class Lab_011_Multiplication_Table_using_printf {
+public class Lab_010_Multiplication_Table_using_printf {
 
         public static void main(String[] args) {
             System.out.printf("9 x 1 = %d\n", 9);
