@@ -12,7 +12,7 @@ public class Lab_016_Variables {
         int this_is_a_very_long_name_in_the_class_hello_$_akakak = 89;
 
         // =  operator Assignment ->
-        // 65 ->  literla (int) value
+        // 65 ->  literals (int) value
 
 
 
