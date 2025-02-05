@@ -1,7 +1,7 @@
 package Tasks_Practice_Questions;
 import java.util.Scanner;
 
-public class checkPlaindrome {
+public class checkPalindrome {
         public static void main(String[] args) {
             Scanner sc = new Scanner(System.in);
 
