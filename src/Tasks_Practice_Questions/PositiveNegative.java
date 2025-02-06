@@ -19,6 +19,6 @@ public class PositiveNegative {
         } else{
             System.out.println("The number is Zero");
         }
-
+            sc.close();
     }
 }
